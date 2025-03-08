@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "FatorialRecursivo",
+      "request": "launch",
+      "mainClass": "Aulas.Aula02.FatorialRecursivo",
+      "projectName": "Senai-Data-Structure_6875ec11"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "application.Program",
+      "projectName": "Senai-Data-Structure_6875ec11"
+    },
+    {
       "name": "C/C++: g++ build and debug active file",
       "type": "cppdbg",
       "request": "launch",
